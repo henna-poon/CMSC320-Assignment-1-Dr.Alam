@@ -9,4 +9,8 @@ Answer: Data science can be applied to machine learning. If we want to train a m
 
 Q3: What is the difference between merging and rebasing?
 
-Answer: Merging is when the content from two different branches combine together. Rebading is changing the base of the branch from one commit to another.
+Answer: Merging is when the content from two different branches combine together. Rebading is changing the base of the branch from one commit to anotheri.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my skills of handling data and using git. Handling data is new for me, but git is a recurring skill that I have never fully understood. This assignment is helping me understand exactly how to set up git and how to use branches.
