@@ -5,3 +5,8 @@ Answer: It is good for collaboration.
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Data science can be applied to machine learning. If we want to train a model that can recognize a bird based on a picture, we can use data science principles to collect pictures of birds, clean out the data, and feed it into a model for training.
+
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging is when the content from two different branches combine together. Rebading is changing the base of the branch from one commit to another.
